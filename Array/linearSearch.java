@@ -1,4 +1,4 @@
-package DSA.Array;
+
 public class linearSearch {
 
     public static int largest(int numbers[]){
